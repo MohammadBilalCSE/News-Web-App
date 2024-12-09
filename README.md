@@ -43,11 +43,6 @@ A modern and dynamic web application that delivers the latest news based on user
 3. Open `index.html` in your browser to view the app.  
 
 
-## 🎨 Preview  
-
-![Screenshot of News Web App](https://via.placeholder.com/800x400)  
-
-
 ## 🔑 License  
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
